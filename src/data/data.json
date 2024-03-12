@@ -1,0 +1,407 @@
+{
+  "header": {
+    "name": "Sumit Singh",
+    "role": "Software Developer at Powerweave",
+    "overallExperience": {
+      "startDate": "May 21, 2016",
+      "replacer": "{{experience}}"
+    },
+    "bio": "Web developer with over {{experience}} of experience in React, JavaScript, etc with a flair for creating elegant solutions in the least amount of time. Recognized consistently for performance excellence and contributions to success in web development industry.",
+    "contact": [
+      {
+        "type": "email",
+        "value": "sumit.singh@powerweave.com",
+        "isHidden": false,
+        "icon": "email"
+      }, {
+        "type": "phone",
+        "value": "+91-96065 63829",
+        "isHidden": true,
+        "icon": "phone"
+      }, {
+        "type": "website",
+        "value": "Resume",
+        "isHidden": false,
+        "icon": "website",
+        "link": "https://www.powerweave.com/"
+      }, {
+        "type": "address",
+        "value": "Hyderabad, Telangana",
+        "isHidden": false,
+        "icon": "address"
+      }
+    ],
+    "links": [
+      {
+        "type": "GitHub",
+        "value": "https://github.com/",
+        "isHidden": false,
+        "icon": "github"
+      }, {
+        "type": "LinkedIn",
+        "value": "https://linkedin.com/in/",
+        "isHidden": false,
+        "icon": "linkedin"
+      }, {
+        "type": "HackerRank",
+        "value": "https://hackerrank.com/",
+        "isHidden": false,
+        "icon": "hackerrank"
+      }, {
+        "type": "Medium",
+        "value": "https://.medium.com/",
+        "isHidden": false,
+        "icon": "medium"
+      }, {
+        "type": "NPM",
+        "value": "https://npmjs.com/~",
+        "isHidden": false,
+        "icon": "npm",
+        "iconClass": "scaled-up-icon"
+      }, {
+        "type": "NPX Card",
+        "value": "https://www.npmjs.com/package/",
+        "isHidden": false,
+        "icon": "terminal"
+      }, {
+        "type": "Twitter",
+        "value": "https://twitter.com/_",
+        "isHidden": true,
+        "icon": "twitter"
+      }, {
+        "type": "Leetcode",
+        "value": "https://twitter.com/_",
+        "isHidden": true,
+        "icon": "leetcode"
+      }
+    ],
+    "image": {
+      "imageName": "profile.jpeg",
+      "showImage": true
+    },
+    "badges": {
+      "isHidden": true,
+      "badges": [
+        { "badgeName": "IBM", "link": "", "icon": "", "isHidden": false },
+        { "badgeName": "Google", "link": "", "icon": "", "isHidden": false }
+      ]
+    }
+  },
+  "experience": [
+    {
+      "company": "Powerweave Software Services Pvt Ltd",
+      "duration": {
+        "from": "17 Dec, 2018",
+        "to": "present"
+      },
+      "location": "Mumbai, Maharashtra",
+      "work": [
+        {
+          "role": "Software Developer",
+          "duration": {
+            "from": "1 Jul, 2020",
+            "to": "present"
+          },
+          "projects": [
+            {
+              "name": "Allstate (CEME)",
+              "technologies": ["React", "Git", "version1", "MFE", "MongoDB", "Jenkins"],
+              "responsibilities": [
+                "Eureka award for developing the standalone webapp to generate the auth token",
+                "Created dynamic UI to handle data directly from backend (logicless UI)"
+              ]
+            },
+            {
+              "name": "Kraft Heinz",
+              "technologies": ["React", "Git", "Azure"],
+              "responsibilities": [
+                "Awarded as the best young developer for the web app development",
+                "Boosted user experience scores by 55% over company-wide previous best for sales team",
+                "Completed 3 web apps to manage the high sensitive sales data"
+              ]
+            },
+            {
+              "name": "T-Rux",
+              "technologies": ["React", "Git", "Keycloak", "ThreeJS"],
+              "responsibilities": [
+                "Enhanced UX by providing the ability to integrate survey data into an SPA",
+                "Reduced finish time by 50% to create a complete task"
+              ]
+            },
+            {
+              "name": "Airbus",
+              "technologies": ["React", "Git", "ExpressJS"],
+              "responsibilities": [
+                "Developed a robust react application to manage millions of entries",
+                "Provided web accessibility to enhance user experience",
+                "Created a light weight express server to perform internal operations"
+              ]
+            }
+          ],
+          "description": [
+            "Developed well designed, testable, efficient code by using best software development practices",
+            "Managed the modularity of the application to reduce the redundancy of the code",
+            "Participated in internal hackathons and interview activities"
+          ],
+          "showDescription": true
+        },
+        {
+          "role": "Systems Engineer",
+          "duration": {
+            "from": "21 May, 2018",
+            "to": "30 Jun, 2020"
+          },
+          "projects": [
+            {
+              "name": "Apple",
+              "technologies": ["React", "ReconJS", "Mustache", "SCSS", "GIT"],
+              "responsibilities": [
+                "Provided web accessibility to enhance user experience",
+                "Upgraded existing web components to latest stack with new features",
+                "Providing optimized solutions for performance"
+              ]
+            }
+          ],
+          "description": [
+            "Enhanced and maintained web accessibility across various web apps while enhancing the user experience",
+            "Upgraded existing web app to available newer stack as per the standards"
+          ],
+          "showDescription": true
+        }
+      ]
+    }
+  ],
+  "education": [
+    {
+      "type": "Graduation",
+      "degree": "B.Tech.",
+      "school": "Poornima Group of Institutions, Jaipur",
+      "score": "78.93% (Hons.)",
+      "isHidden": false,
+      "duration": {
+        "from": "July, 2014",
+        "to": "May, 2018"
+      },
+      "isGraduation": true
+    }, {
+      "type": "Senior Secondary",
+      "degree": "",
+      "school": "Rajasthali Vidyapeeth Sen Sec School, Nawa, Rajasthan",
+      "score": "75.6%",
+      "isHidden": true,
+      "duration": {
+        "from": "Jun, 2012",
+        "to": "May, 2013"
+      },
+      "isGraduation": false
+    }, {
+      "type": "Secondary",
+      "degree": "",
+      "school": "Rajasthali Vidyapeeth Sen Sec School, Nawa, Rajasthan",
+      "score": "79.0%",
+      "isHidden": true,
+      "duration": {
+        "from": "July, 2010",
+        "to": "Jun, 2011"
+      },
+      "isGraduation": false
+    }
+  ],
+  "projects": [
+    {
+      "name": "Dev Social Media",
+      "technologies": ["MERN", "Git", "Redux", "Heroku"],
+      "desc": "A social platform where developers can connect, post and handle their profiles",
+      "link": "https://github.com/",
+      "isHidden": false
+    }, {
+      "name": "Gradient Code",
+      "technologies": ["React", "CSS3", "HTML5 Canvas"],
+      "desc": "A web app to create, save, edit and download the gradients",
+      "link": "https://github.com/",
+      "isHidden": false
+    }, {
+      "name": "Libraries",
+      "technologies": ["JavaScript", "React", "Chalk", "Boxen"],
+      "desc": "Published libraries on NPM",
+      "link": "https://npmjs.com/",
+      "isHidden": true
+    }, {
+      "name": "FreeCodeCamp",
+      "technologies": ["React", "JavaScript", "CSS3", "HTML5 Canvas"],
+      "desc": "10 small projects based on certification",
+      "link": "https://github.com/",
+      "isHidden": false
+    }
+  ],
+  "others": {
+    "achievements": [
+      "Won the most valuable coder for the project (Kraft Heinz)",
+      "Won Infosys awards for most valuable player",
+      "Participated and qualified to the finale round of Smart India Hackathon"
+    ],
+    "certificates": [
+      {
+        "org": "FreeCodeCamp",
+        "name": "Responsive Web Design, DSA using JS, FE libraries",
+        "valid": {
+          "from": "Feb 28, 2021",
+          "to": "Present"
+        },
+        "link": "https://freecodecamp.org",
+        "containsSub": true,
+        "shouldShowSubs": false,
+        "subs": [
+          {
+            "name": "Front End Development Libraries",
+            "link": "https://www.freecodecamp.org/certification/geekyorion/front-end-development-libraries",
+            "issuedOn": "July 11, 2021"
+          },
+          {
+            "name": "JavaScript Algorithms and Data Structures",
+            "link": "https://www.freecodecamp.org/certification/geekyorion/javascript-algorithms-and-data-structures",
+            "issuedOn": "March 20, 2021"
+          },
+          {
+            "name": "Responsive Web Design",
+            "link": "https://freecodecamp.org/certification/geekyorion/responsive-web-design",
+            "issuedOn": "Feb 28, 2021"
+          }
+        ]
+      },
+      {
+        "org": "HackerRank",
+        "name": "JS, React, React, Node, Python, etc.",
+        "valid": {
+          "from": "Sep 10, 2020",
+          "to": "Present",
+          "showCurrent": true
+        },
+        "link": "https://hackerrank.com/",
+        "containsSub": true,
+        "shouldShowSubs": false,
+        "subs": [
+          {
+            "name": "React (Intermediate)",
+            "link": "https://www.hackerrank.com/certificates/e9ad142919e4",
+            "issuedOn": "Nov 14, 2021"
+          },
+          {
+            "name": "React (Basic)",
+            "link": "https://www.hackerrank.com/certificates/899b61d8697d",
+            "issuedOn": "Nov 14, 2021"
+          },
+          {
+            "name": "Node (Basic)",
+            "link": "https://www.hackerrank.com/certificates/3e1d26024edd",
+            "issuedOn": "Nov 14, 2021"
+          },
+          {
+            "name": "Rest API (Intermediate)",
+            "link": "https://www.hackerrank.com/certificates/ecb0c3c46444",
+            "issuedOn": "Nov 02, 2021"
+          },
+          {
+            "name": "React (Basic)",
+            "link": "https://www.hackerrank.com/certificates/b5c15060f567",
+            "issuedOn": "Oct 08, 2021"
+          },
+          {
+            "name": "JavaScript (Intermediate)",
+            "link": "https://www.hackerrank.com/certificates/44f6fbed0bcd",
+            "issuedOn": "Oct 08, 2021"
+          },
+          {
+            "name": "JavaScript (Basic)",
+            "link": "https://www.hackerrank.com/certificates/dca875bb6044",
+            "issuedOn": "Oct 08, 2021"
+          },
+          {
+            "name": "Problem Solving (Basic)",
+            "link": "https://www.hackerrank.com/certificates/69d80d724f79",
+            "issuedOn": "Oct 08, 2021"
+          },
+          {
+            "name": "CSS",
+            "link": "https://www.hackerrank.com/certificates/118b639cb589",
+            "issuedOn": "Oct 08, 2021"
+          },
+          {
+            "name": "Python (Intermediate)",
+            "link": "https://www.hackerrank.com/certificates/29419a5ae278",
+            "issuedOn": "Sep 11, 2020"
+          },
+          {
+            "name": "Python (Basic)",
+            "link": "https://www.hackerrank.com/certificates/cb508b587b64",
+            "issuedOn": "Sep 10, 2020"
+          }
+        ]
+      },
+      {
+        "org": "Microsoft",
+        "name": "Microsoft 70-480: Programming in HTML5 with JavaScript and CSS3",
+        "valid": {
+          "from": "Jun 04, 2019",
+          "to": "Present"
+        },
+        "link": null,
+        "containsSub": false,
+        "shouldShowSubs": false,
+        "subs": []
+      }
+    ],
+    "skills": [
+      {
+        "rating": 5,
+        "technologies": ["React", "JS", "React", "CSS", "HTML"],
+        "info": "Excellent"
+      },
+      {
+        "rating": 4,
+        "technologies": ["Express", "Git", "version1", "ThreeJS"],
+        "info": "Very Good"
+      },
+      {
+        "rating": 3,
+        "technologies": ["NodeJS", "MongoDB", "SQL", "Jenkins"],
+        "info": "Good"
+      }
+    ],
+    "softwares": [
+      "Figma",
+      "VSCode",
+      "Git",
+      "Jira",
+      "Bootstrap Studio",
+      "Ubuntu",
+      "etc."
+    ],
+    "interests": ["Chess (Aiming for FIDE Rated player)", "Sudoku", "LoFi Music"],
+    "languages": [
+      { "language": "Hindi", "rating": 5, "info": "Native or Bilingual Proficiency" },
+      { "language": "English", "rating": 4, "info": "Full Professional Proficiency" },
+      { "language": "Spanish", "rating": 1, "info": "Elementary Proficiency" }
+    ],
+    "showOnly": {
+      "achievements": false,
+      "certificates": true,
+      "skills": true,
+      "softwares": true,
+      "interests": true,
+      "languages": false
+    }
+  },
+  "footer": {
+    "info": "Created using ReactJS and hosted at: ",
+    "link": "https://github.com/",
+    "isHidden": false
+  },
+  "consent": {
+    "isHidden": true,
+    "content": {
+      "text": [],
+      "links": []
+    }
+  }
+}
