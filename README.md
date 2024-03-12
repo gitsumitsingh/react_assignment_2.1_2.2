@@ -43,7 +43,7 @@ Assignment 1 : Create a simple React app for RESUME Builder. It will be static w
     ...
     }
 You can choose any simple HTML layout and convert it to React Components
-# Annwer: Created AppResume as main component and header, footer, about, contact, resume and portfolio as sub components.
+# Annwer: Created App as main component and header, footer, education, projects, experience as sub components.
 - [Click me] (https://github.com/gitsumitsingh/react_assignment_2.1_2.2) for github URL
 
 --------------------------------------------------------------------------------
